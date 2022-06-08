@@ -1,0 +1,1 @@
+# AI_contest_2022_segmentation
